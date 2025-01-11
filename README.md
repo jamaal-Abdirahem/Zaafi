@@ -18,6 +18,20 @@ Zaafi showcases advanced JavaScript concepts, including:
 - Event-driven programming for seamless user interactions.  
 - Local and session storage for session management.  
 
+## How to Login  
+
+To test the Zaafi banking app, you can log in using the following demo accounts:  
+
+- **Account 1**:  
+  - **User**: ja  
+  - **PIN**: 1111  
+
+- **Account 2**:  
+  - **User**: sa  
+  - **PIN**: 2222  
+
+Once logged in, you can explore the features like viewing the account balance, transaction history, making transfers, and more.
+
 ## Live Demo  
 [Live Demo Link](https://zaafi.netlify.app/)
 
