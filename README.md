@@ -19,7 +19,7 @@ Zaafi showcases advanced JavaScript concepts, including:
 - Local and session storage for session management.  
 
 ## Live Demo  
-[Live Demo Link](#) _(Replace this with the actual link once hosted)_  
+[Live Demo Link](https://zaafi.netlify.app/)
 
 ## Future Enhancements  
 - Add backend support for secure data storage.  
